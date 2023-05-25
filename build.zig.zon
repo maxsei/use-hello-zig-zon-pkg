@@ -1,0 +1,11 @@
+
+.{
+    .name = "jomammad",
+    .version = "0.1.0",
+    .dependencies = .{
+        .hello = .{
+            .url  = "https://github.com/maxsei/hello-zig-zon-pkg/archive/7b8f7278265a14e6879dd974bfe063a664524cb8.tar.gz",
+            .hash = "1220aa2cf330fb36da40119277f3d99e979e2bf8bc5042cec1aaff067e4c669bfa4f",
+        },
+    },
+}
